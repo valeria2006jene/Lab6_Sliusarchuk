@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Lab6_App/Lab6_App.csproj" Id="b61298bb-811a-4521-be84-d4d27cff5629" />
+  <Project Path="../Lab6_Lib/Lab6_Lib.csproj" Id="dca4de6f-2b83-431c-b1cb-b61f566505f9" />
+</Solution>
