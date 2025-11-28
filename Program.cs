@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Lab05_Variant10
+namespace Lab6_Sliusarchuk
 {
     class Tablet // Оголошення класу, що описує структуру об'єкта "Планшет".
     {
